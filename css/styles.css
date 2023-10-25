@@ -11,6 +11,7 @@
     align-items: center;
     justify-content: center;
     margin-top: 64px;
+    flex-direction: column;
 
 }
 
@@ -63,7 +64,6 @@
     font-size: 18px;
     font-weight: 500;
     line-height: 26px;
-    word-wrap: break-word;
     margin-top: 32px;
     text-align: center;
     color: #87879D;
