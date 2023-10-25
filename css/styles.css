@@ -68,7 +68,8 @@
 }
 
 /*YO*/
-img-left {
+
+.img-left {
     position: absolute;
     left: 0;
 }
