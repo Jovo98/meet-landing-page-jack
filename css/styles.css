@@ -98,7 +98,6 @@
     flex-direction: column;
     align-items: center;
     height: 358px;
-    width: 1504px;
     font-family: Red Hat Display, sans serif;
     padding: 0;
 }
@@ -160,4 +159,10 @@ h1 {
 #what:hover {
     background-color: #B18BDD;
     cursor:pointer;
+}
+
+.thingy-in-middle-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
