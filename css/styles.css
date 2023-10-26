@@ -27,8 +27,6 @@
     height: 242px;
     width: 255px;
     display: flex;
-    cursor: pointer;
-
 }
 
 .hero-gallery {
@@ -44,7 +42,6 @@
     width: 540px;
     flex-direction: column;
     margin: auto;
-
 }
 
 .second-section {
@@ -70,7 +67,7 @@
 
 .fourth-section {
     display: flex;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 26px;
     margin-top: 32px;
@@ -161,7 +158,11 @@ h1 {
     cursor:pointer;
 }
 
+<<<<<<< HEAD
 .thingy-in-middle-1 {
+=======
+.icon-steps {
+>>>>>>> f4fc35dd8e23a520efd1472840ab76cf834c9af5
     display: flex;
     justify-content: center;
     align-items: center;
