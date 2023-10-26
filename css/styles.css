@@ -27,8 +27,6 @@
     height: 242px;
     width: 255px;
     display: flex;
-    cursor: pointer;
-
 }
 
 .hero-gallery {
@@ -44,7 +42,6 @@
     width: 540px;
     flex-direction: column;
     margin: auto;
-
 }
 
 .second-section {
@@ -70,7 +67,7 @@
 
 .fourth-section {
     display: flex;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 26px;
     margin-top: 32px;
@@ -98,7 +95,6 @@
     flex-direction: column;
     align-items: center;
     height: 358px;
-    width: 1504px;
     font-family: Red Hat Display, sans serif;
     padding: 0;
 }
@@ -160,4 +156,10 @@ h1 {
 #what:hover {
     background-color: #B18BDD;
     cursor:pointer;
+}
+
+.icon-steps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
