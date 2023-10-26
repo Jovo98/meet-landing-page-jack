@@ -4,6 +4,17 @@
     font-family: red hat display, sans-serif;
 }
 
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 128px;
+}
+
+.logo {
+    cursor: pointer;
+}
+
 .section-gallery {
     display: flex;
     align-items: center;
